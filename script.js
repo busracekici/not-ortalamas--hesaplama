@@ -9,9 +9,7 @@ let girilenNot = prompt(
     yeniSatır +
     "2-Final notunuzu giriniz:" +
     yeniSatır +
-    "3-Bütünleme notunuzu giriniz:" +
-    yeniSatır +
-    "4-Çıkış"
+    "3-Bütünleme notunuzu giriniz:"
 );
 
 switch (girilenNot) {
